@@ -1,0 +1,21 @@
+<mockup version="1.0" skin="sketch" measuredW="748" measuredH="457" mockupW="653" mockupH="447">
+  <controls>
+    <control controlID="0" controlTypeID="com.balsamiq.mockups::BrowserWindow" x="95" y="10" w="653" h="447" measuredW="450" measuredH="400" zOrder="0" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Are%20You%20READY%3F%0Ahttp%3A//divinespirit.io</text>
+      </controlProperties>
+    </control>
+    <control controlID="14" controlTypeID="com.balsamiq.mockups::TextArea" x="121" y="91" w="573" h="296" measuredW="200" measuredH="140" zOrder="1" locked="false" isInGroup="-1">
+      <controlProperties>
+        <align>center</align>
+        <size>20</size>
+        <text>We%20are%20so%20Glad%20%3Caccount%20name%3E%20is%20available%20on%20the%20New%20Internet%21%0AWhich%20we%20call%20%5BEOS%3A%20Enlightened%20Open%20System%5D%0A%20%0AThe%20Enlightened%20Open%20System%20%28EOS%29%20has%20been%20developed%20to%20secure%20Life%2C%20Liberty%2C%20and%20Property.%0AIn%20order%20to%20do%20that%20you%20must%20agree%20to%20EOS%20Constitution%20and%20%5Bcreator%5D%20Contract%0AAre%20you%20willing%20to%20enter%20EOS%2C%20The%20Enlightened%20Open%20System%20Internet%3F%0A%5BI%20agree%2C%20get%20my%20name%21%5D%0A%5BI%20need%20to%20learn%20more%5D%20%0A%5BShare%5D</text>
+      </controlProperties>
+    </control>
+    <control controlID="15" controlTypeID="com.balsamiq.mockups::CallOut" x="230" y="52" w="255" h="39" measuredW="170" measuredH="37" zOrder="2" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>The%20url%20can%20be%20anything%20%21</text>
+      </controlProperties>
+    </control>
+  </controls>
+</mockup>
